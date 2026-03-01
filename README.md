@@ -9,36 +9,36 @@
 <br/>
 
 <p align="center">
-  <em>A powerful, dynamic tool suite designed to seamlessly construct, refine, and format IEEE academic papers using the power of Google Gemini AI.</em>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Seamlessly+construct+IEEE+papers;Analyze+with+Google+Gemini+AI;Format+equations+and+citations;Boost+your+academic+workflow!" alt="Typing SVG" />
 </p>
 
 </div>
 
 ---
 
-## ✨ Features
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Star-Struck.png" alt="Star-Struck" width="25" height="25" /> Features
 
-*   🤖 **AI-Powered Refinement**: Automatically fix grammar, expand, or condense text seamlessly using Gemini 2.5 Flash.
-*   📜 **IEEE Formatting**: Ensures your paper sections are primed and ready for IEEE template standards.
-*   📐 **Smart Equations**: Transforms raw formulas into perfectly styled Unicode math syntax inside `[MATH] ... [/MATH]` blocks.
-*   ⚡ **Real-time Processing**: Fast, robust, and highly efficient processing flow.
+*   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="20" height="20" /> **AI-Powered Refinement**: Automatically fix grammar, expand, or condense text seamlessly using Gemini 2.5 Flash.
+*   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Scroll.png" alt="Scroll" width="20" height="20" /> **IEEE Formatting**: Ensures your paper sections are primed and ready for IEEE template standards.
+*   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Triangular%20Ruler.png" alt="Triangular Ruler" width="20" height="20" /> **Smart Equations**: Transforms raw formulas into perfectly styled Unicode math syntax inside `[MATH] ... [/MATH]` blocks.
+*   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="High Voltage" width="20" height="20" /> **Real-time Processing**: Fast, robust, and highly efficient processing flow.
 
 <br/>
 
-## 📂 Project Structure
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/File%20Folder.png" alt="File Folder" width="25" height="25" /> Project Structure
 
 | Directory | Description |
 | :--- | :--- |
-| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" alt="Snake" width="25" height="25" /> `backend/` | Python-based application handling the Gemini AI integrations, text sanitization, and processing logic. |
-| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Desktop Computer" width="25" height="25" /> `frontend/` | Dynamic UI allowing users to easily paste, refine, and construct their paper sections effortlessly. |
+| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" alt="Snake" width="30" height="30" /> `backend/` | Python-based application handling the Gemini AI integrations, text sanitization, and processing logic. |
+| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Desktop Computer" width="30" height="30" /> `frontend/` | Dynamic UI allowing users to easily paste, refine, and construct their paper sections effortlessly. |
 
 <br/>
 
-## 🚀 Getting Started
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Getting Started
 
 Follow these steps to get the project up and running on your local machine.
 
-### 📋 Prerequisites
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Clipboard.png" alt="Clipboard" width="25" height="25" /> Prerequisites
 
 Make sure you have the following installed:
 *   [Node.js](https://nodejs.org/)
@@ -47,7 +47,7 @@ Make sure you have the following installed:
 
 ---
 
-### 🛠️ Backend Setup (Python)
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="25" height="25" /> Backend Setup (Python)
 
 <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="150" height="150" alt="Laptop"/>
 
@@ -74,7 +74,7 @@ Make sure you have the following installed:
 
 <br/>
 
-### 🎨 Frontend Setup (Node)
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Artist%20Palette.png" alt="Artist Palette" width="25" height="25" /> Frontend Setup (Node)
 
 1. **Navigate to the frontend directory:**
    ```bash
@@ -93,13 +93,14 @@ Make sure you have the following installed:
 
 ---
 
-## 🤝 Contributing
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="30" height="30" /> Contributing
 
 Pull requests are always welcome! Let's build the perfect academic writing assistant together.
 
 <br/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="50" height="50" />
   <h3>Built with ❤️ for Researchers and Academics</h3>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
 </div>
